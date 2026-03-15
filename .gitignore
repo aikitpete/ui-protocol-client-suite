@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+*.iml
+
+# Build / temp
+bin/
+build/
+dist/
+out/
+target/
+*.swp
+*.log
