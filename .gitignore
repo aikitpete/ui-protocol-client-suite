@@ -14,3 +14,11 @@ out/
 target/
 *.swp
 *.log
+.svn/
+*.bak
+*.class
+nbproject/private/
+*.sdf
+*.ilk
+*.pdb
+*.suo
