@@ -1,5 +1,7 @@
 # UI Protocol Client Suite
 
+> **Status:** historical prototype (Flex/ActionScript and Java), not maintained. Contains third-party code under its own licence (see NOTICE.md).
+
 This repository explores an architectural idea: instead of shipping every screen as compiled native code, the client downloads **UI definitions from a server** and renders them dynamically at runtime.
 
 The approach is conceptually similar to modern **server‑driven UI**, **remote configuration**, and **dynamic interface rendering** systems.
