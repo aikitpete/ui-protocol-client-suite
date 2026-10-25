@@ -1,5 +1,7 @@
 # UI Protocol Client Suite
 
+[![Licence](https://img.shields.io/badge/licence-see%20NOTICE-lightgrey)](NOTICE.md) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![ActionScript 3](https://img.shields.io/badge/ActionScript%203-E34F26) ![XML](https://img.shields.io/badge/XML-005FAD) ![Status](https://img.shields.io/badge/status-archived-lightgrey)
+
 > **Status:** historical prototype (Flex/ActionScript and Java), not maintained. Contains third-party code under its own licence (see NOTICE.md).
 
 This repository explores an architectural idea: instead of shipping every screen as compiled native code, the client downloads **UI definitions from a server** and renders them dynamically at runtime.
